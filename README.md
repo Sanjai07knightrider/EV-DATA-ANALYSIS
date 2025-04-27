@@ -54,6 +54,5 @@ Welcome to the **Electric Vehicle Growth and Adoption Dashboard** created in **T
 
 If you'd like to contribute to this project, please feel free to fork the repository and submit pull requests. Contributions can include improving data visualizations, adding new features, or suggesting new data sources for EV adoption analysis.
 
-## License
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
