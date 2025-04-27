@@ -1,4 +1,4 @@
-# 📊 Tableau Workbook: [ELECTRIC VEHICLE DATA ANALYSIS]
+# 📊 Tableau Workbook: ELECTRIC VEHICLE DATA ANALYSIS
 
 Welcome!  
 This project includes a Tableau workbook created using Tableau Public.
@@ -32,7 +32,6 @@ or
 If you have any issues opening the workbook, feel free to create an issue or contact me.
 # Electric Vehicle Growth and Adoption Dashboard (Tableau)
 
-Welcome to the **Electric Vehicle Growth and Adoption Dashboard** created in **Tableau**! This dashboard analyzes the growth and adoption trends of Electric Vehicles (EVs) over the years and provides valuable insights into the EV market, consumer behavior, and the distribution of EVs across different states in the USA.
 
 ## Objectives
 
